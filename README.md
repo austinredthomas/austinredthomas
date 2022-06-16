@@ -24,11 +24,17 @@
   - [Practicing DS & Algos in Python]
 
 <h2>Certifications:</h2>
-  - <b>RangeForce</b>
-    -SOC Analyst 1
-    -SOC Analyst 2
-  - <b>TryHackMe</b>
-    -CompTIA PenTest+ Learning Path
-    -Pre-Security Learning Path
+  
+- <b>RangeForce</b>
+  
+  - SOC Analyst 1
+  
+  - SOC Analyst 2
+  
+- <b>TryHackMe</b>
+  
+  - CompTIA PenTest+ Learning Path
+  
+  - Pre-Security Learning Path
 
 
