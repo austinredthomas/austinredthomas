@@ -2,7 +2,7 @@
   
 <h2>Projects</h2>
   
-- <b>Wiki Web App</b>(https://github.com/austinredthomas/Wiki-Project)
+- <b>[Wiki Web App](https://github.com/austinredthomas/Wiki-Project)</b>
 
 <h2>Certifications:</h2>
   
