@@ -2,7 +2,7 @@
   
 <h2>Projects</h2>
   
-- <b>[Wiki Web App](https://github.com/austinredthomas/Wiki-Project)</b>
+- <b>[Wiki Web App](https://github.com/austinredthomas/Wiki-Project) (Django Web App)</b>
 
 <h2>Certifications:</h2>
   
