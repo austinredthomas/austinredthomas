@@ -6,6 +6,8 @@
 
 <h2>Certifications:</h2>
   
+  CompTIA Security+ Certification
+  
 - <b>RangeForce</b>
   
   - SOC Analyst 1
