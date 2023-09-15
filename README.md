@@ -6,7 +6,9 @@
 
 <h2>Certifications:</h2>
   
-  CompTIA Security+ Certification
+- CompTIA Security+ CE
+
+- AWS Certified Cloud Practitioner
   
 - <b>RangeForce</b>
   
