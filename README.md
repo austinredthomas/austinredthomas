@@ -6,7 +6,7 @@
 
 <h2>Certifications:</h2>
   
-- CompTIA Security+ CE
+- CompTIA Security+
 
 - AWS Certified Cloud Practitioner
   
