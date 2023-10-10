@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/>
+<h1>Hi, I'm Austin!</h1>
   
 <h2>Projects</h2>
   
