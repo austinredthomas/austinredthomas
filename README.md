@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/> <a href="https://www.linkedin.com/in/austinredthomas/">Cybersecurity Professional</a> and <a href="https://github.com/austinredthomas">Developer</a>
+<h1>Hi, I'm Austin! <br/>
   
 <h2>Projects</h2>
   
