@@ -8,6 +8,8 @@
   
 - CompTIA Security+
 
+- CompTIA A+
+
 - AWS Certified Cloud Practitioner
   
 - <b>RangeForce</b>
